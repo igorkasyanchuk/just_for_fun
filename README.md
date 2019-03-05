@@ -29,7 +29,7 @@ $ gem install just_for_fun
 
 ## Implementation
 
-See `lib/just_for_fun.rb`. It's using method_missing to do what it do :)
+See `lib/tasks/railtie.rb`. When app is starting gem is defining such methods.
 
 ## Contributing
 
