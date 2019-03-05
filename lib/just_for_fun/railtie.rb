@@ -1,4 +1,4 @@
-require 'pry'
+# require 'pry'
 
 module JustForFun
   class Railtie < ::Rails::Railtie
