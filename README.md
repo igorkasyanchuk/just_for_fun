@@ -31,6 +31,10 @@ $ gem install just_for_fun
 
 See `lib/just_for_fun.rb`. It's using method_missing to do what it do :)
 
+## TODO
+
+- improve performance, looks like it has impact on it
+
 ## Contributing
 
 You are welcome to contribute.
