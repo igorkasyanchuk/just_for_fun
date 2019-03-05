@@ -31,6 +31,10 @@ $ gem install just_for_fun
 
 See `lib/tasks/railtie.rb`. When app is starting gem is defining such methods.
 
+## TODO
+
+- improve performance, looks like it has impact on it
+
 ## Contributing
 
 You are welcome to contribute.
