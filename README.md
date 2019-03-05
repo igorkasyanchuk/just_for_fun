@@ -1,4 +1,4 @@
-# Just For Fun :) 42.to_user
+# 42.to_user
 
 This gem is adding shortcuts for Integer and Array classes so you can call `to_XXXXX` method and get object or relation object.
 
