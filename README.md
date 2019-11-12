@@ -35,6 +35,16 @@ See `lib/tasks/railtie.rb`. When app is starting gem is defining such methods.
 
 - improve performance, looks like it has impact on it
 
+## For Rails 6
+
+in development.rb to preload all models.
+
+```
+Rails.application.configure do
+  config.eager_load = true
+end
+```
+
 ## Contributing
 
 You are welcome to contribute.
