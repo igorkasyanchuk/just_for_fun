@@ -1,3 +1,6 @@
+[![RailsJazz](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/my_other.svg?raw=true)](https://www.railsjazz.com)
+[![https://www.patreon.com/igorkasyanchuk](https://github.com/igorkasyanchuk/rails_time_travel/blob/main/docs/patron.svg?raw=true)](https://www.patreon.com/igorkasyanchuk)
+
 This gem is adding shortcuts for Integer and Array classes so you can call `to_XXXXX` method and get object or relation object.
 
 ## Usage
